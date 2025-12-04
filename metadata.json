@@ -1,0 +1,5 @@
+{
+  "name": "Hessian Surface Classifier",
+  "description": "A scientific tool that uses Hessian matrix mathematics to classify terrain surface types from DEM inputs, generating parametric data files and rendering classified 3D surfaces.",
+  "requestFramePermissions": []
+}
